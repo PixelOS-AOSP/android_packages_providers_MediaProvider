@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5104dd51_31fad626",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000090
+      },
+      "writtenOn": "2026-06-02T20:37:06Z",
+      "side": 1,
+      "message": "I can\u0027t select any photo at all Clicking on any image it says\n\"Select up to 0 items\" and doesn\u0027t do anything",
+      "revId": "c87699fe612bce350bb52cf85a7e4028e929b226",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
